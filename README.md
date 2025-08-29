@@ -1,13 +1,22 @@
-**Open Source AI Web Design Agency Tool!
-**
-Currently a work in progress, but helps find leads in a streamlit app that does not have a website, and adding a built in functionality to generate Webpages for Said Businesses
+# 🚀 **AI WEB AGENCY Tool**  
 
-- Adding AI UI Generator
-- Automatic Cold Email's with Screenshot of UI
+**Open Source AI Web Design Agency Tool!**  
 
+Currently a work in progress, this tool helps find leads in a Streamlit app for businesses **without a website**, and includes built-in functionality to **generate webpages** for these businesses.  
 
-<img width="1271" height="758" alt="image" src="https://github.com/user-attachments/assets/1263dacf-76e0-4492-965d-388f2be7e903" />
+---
 
-  Making the Ultimate Open Source AI Agency Tool for Web Design Agencies
+## ⚡ Features
 
-  
+- **AI UI Generator** – Automatically create stunning UI designs  
+- **Cold Email Automation** – Send emails with a **screenshot of the generated UI**  
+
+---
+
+![Preview](https://github.com/user-attachments/assets/1263dacf-76e0-4492-965d-388f2be7e903)  
+
+---
+
+### 🎯 Goal
+
+Making the **Ultimate Open Source AI Tool** for **Web Design Agencies**, empowering them to **generate websites, capture leads, and automate outreach** in one seamless workflow.
