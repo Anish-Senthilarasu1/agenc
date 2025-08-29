@@ -6,7 +6,7 @@ Currently a work in progress, this tool helps find leads in a Streamlit app for 
 
 ---
 
-## ⚡ Features
+## ⚡ Coming Features
 
 - **AI UI Generator** – Automatically create stunning UI designs  
 - **Cold Email Automation** (Coming Soon!) – Send emails with a **screenshot of the generated UI**  
