@@ -1,5 +1,5 @@
-Open Source AI Web Design Agency Tool!
-
+**Open Source AI Web Design Agency Tool!
+**
 Currently a work in progress, but helps find leads in a streamlit app that does not have a website, and adding a built in functionality to generate Webpages for Said Businesses
 
 - Adding AI UI Generator
